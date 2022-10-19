@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 Welcome to my page!
-I am Nashmil [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nashmil-sepehriazad)
+
 &nbsp;
 
 ### :woman_technologist: About Me :
-Passionate Frontend Developer, from Iran and based in Copenhagen. 
+I am Nashmil, a passionate Frontend Developer, from Iran and based in Copenhagen. 
 
 
 - 🔭 I’m currently working on a gratitude journal, which can be found on my Github.
 - 👯 I’m looking to collaborate on exciting and meaningful projects, 
      at a supportive environment with growth opportunities to keep learning 🌱
  - :relaxed: Coding is my mindfulness....
- - 📫 How to reach me: email me at nashmilsp@gmail.com
+ - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nashmil-sepehriazad)
 <!--
 **Poorooshka/poorooshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
