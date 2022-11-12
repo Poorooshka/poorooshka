@@ -6,9 +6,11 @@ Welcome to my page!
 I am Nashmil, a passionate Frontend Developer, from Iran and based in Copenhagen. 
 
 
-- 🔭 I’m currently working on a gratitude journal, which can be found on my Github.
+- 🔭 I’m currently working on a data visualization app and a  gratitude journal, which can be found on my Github.
 - 👯 I’m looking to collaborate on exciting and meaningful projects, 
-     in a supportive & friendly environment with growth opportunities to keep learning 🌱
+     in a supportive & friendly environment with growth opportunities to keep learning 
+-🌱 I have started learing Vue.js 
+
  - :relaxed: Coding is my mindfulness....
  - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nashmil-sepehriazad)
  
