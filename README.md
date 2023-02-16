@@ -3,14 +3,14 @@
 Welcome to my page!
 &nbsp;
 ### :woman_technologist: About Me :
-I am Nashmil, a passionate Frontend Developer, from Iran and based in Copenhagen. 
+I am Nashmil from Iran and based in Copenhagen. 
 
 
-- 🔭 I’m currently working on a data visualization app and a  gratitude journal, which can be found on my Github.
+- 🔭 I’m currently building a mental health tech startup called Heal Health.
 
-- 👯 I’m looking to collaborate on exciting and meaningful projects, 
-     in a supportive & friendly environment with growth opportunities to keep learning
-- 🌱 I have recently started learing Vue.js 
+- 👯 I’m looking to collaborate with new partners, who are passionate about our mission and good cause. 
+    
+- 🌱 I never stop learning new skills
 
  - :relaxed: Coding is my mindfulness....
  
